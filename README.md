@@ -46,5 +46,5 @@ Sendo assim, existem alguns passos para fazer esta implementação:
 
 5) Dentro da pasta ```model``` crie um arquivo que vai representar a sua entidade (```UsuarioModel.kt```), e use a mesma lógica que você aprendeu no artigo da micilini.com.
 
-7) Não se esqueça que este projeto usa o padrão MVVM, de modo que você é convidado a utilizar um ViewModel para tratar todas as interações com o Repository.
+7) Não se esqueça que este projeto usa o padrão MVVM, de modo que você é convidado a utilizar um ViewModel para tratar todas as interações com o Model.
 
